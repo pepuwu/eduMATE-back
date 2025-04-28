@@ -31,3 +31,13 @@
 /Users/pepilov/Desktop/VSC/eduMATE-back/obj/Debug/net8.0/eduMATE-back.pdb
 /Users/pepilov/Desktop/VSC/eduMATE-back/obj/Debug/net8.0/eduMATE-back.genruntimeconfig.cache
 /Users/pepilov/Desktop/VSC/eduMATE-back/obj/Debug/net8.0/ref/eduMATE-back.dll
+/Users/pepilov/Desktop/VSC/eduMATE-back/bin/Debug/net8.0/BCrypt.Net-Next.dll
+/Users/pepilov/Desktop/VSC/eduMATE-back/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/pepilov/Desktop/VSC/eduMATE-back/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/pepilov/Desktop/VSC/eduMATE-back/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/pepilov/Desktop/VSC/eduMATE-back/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/pepilov/Desktop/VSC/eduMATE-back/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/pepilov/Desktop/VSC/eduMATE-back/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/pepilov/Desktop/VSC/eduMATE-back/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/pepilov/Desktop/VSC/eduMATE-back/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/pepilov/Desktop/VSC/eduMATE-back/obj/Debug/net8.0/eduMATE-back.sourcelink.json
