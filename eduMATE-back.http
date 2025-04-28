@@ -1,0 +1,6 @@
+@eduMATE_back_HostAddress = http://localhost:5014
+
+GET {{eduMATE_back_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
